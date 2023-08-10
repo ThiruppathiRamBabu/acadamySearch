@@ -1,0 +1,7 @@
+{
+  "name": "acadamySearch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
